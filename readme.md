@@ -14,6 +14,9 @@
 <ul>
   <li>Nagendra Choudhary</li>
 </ul>
+<ul>
+<li>Bhaskar Ganesh Naik</li>
+</ul>
 <h1>Tech Stack :</h1>
 <ul> 
   <li>Html</li>
